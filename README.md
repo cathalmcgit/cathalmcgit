@@ -25,15 +25,10 @@ Currently finishing up my MSc in Software Development at Queen's University, Bel
 
 - Currently completing a Prompt Engineering project, which forms the final part of my MSC in Software Development at Queen's University, Belfast. This involves experimenting with the OpenAI API to discover ways that could improve how generative AI writes compelling stories.
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/cathal-mcguigan-07533937/
 - Email: cmcguigan12@qub.ac.uk
-- 
 <!--
 **cathalmcgit/cathalmcgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,7 +44,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+## 📊 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## ⚡ Fun Fact
 
