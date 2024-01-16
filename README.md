@@ -13,13 +13,15 @@ Currently finishing up my MSc in Software Development at Queen's University, Bel
   - JavaScript
  
 - **Frameworks & Libraries:**
+  - Git
   - Bulma
+  - Pandas
+  - OpenAI API
 
 - **Tools & Technologies:**
   - Visual Studio Code
   - OpenAI API
   - SQL Databases
-  - Git
 
 ## 🌱 Currently Learning
 
