@@ -22,6 +22,7 @@ Currently finishing up my MSc in Software Development at Queen's University, Bel
   - Visual Studio Code
   - OpenAI API
   - SQL Databases
+  - Miniconda/Conda
 
 ## 🌱 Currently Learning
 
