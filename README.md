@@ -29,7 +29,6 @@ I'm currently finishing up my MSc in Software Development at Queen's University,
 ## 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/cathal-mcguigan-07533937/
-- Email: cmcguigan12@qub.ac.uk
 <!--
 **cathalmcgit/cathalmcgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
