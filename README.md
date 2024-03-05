@@ -1,32 +1,30 @@
 ### Hi there, I'm Cathal 👋
 
-Currently finishing up my MSc in Software Development at Queen's University, Belfast.
-
-## 🔧 Technologies & Tools
-
-- **Programming Languages:**
-  - Java
-  - HTML
-  - CSS
-  - PHP
-  - Python
-  - JavaScript
- 
-- **Frameworks & Libraries:**
-  - Git
-  - Bulma
-  - Pandas
-  - OpenAI API
-
-- **Tools & Technologies:**
-  - Visual Studio Code
-  - OpenAI API
-  - SQL Databases
-  - Miniconda/Conda
+I'm currently finishing up my MSc in Software Development at Queen's University, Belfast.
 
 ## 🌱 Currently Learning
 
 - Currently completing a Prompt Engineering project, which forms the final part of my MSC in Software Development at Queen's University, Belfast. This involves experimenting with the OpenAI API to discover ways that could improve how generative AI writes compelling stories.
+- The Project makes use of Python. Julia, JSON & HTML/CSS, as well as relevant frameworks and libraries (Pandas, numPy).
+
+## 🔧 Technologies & Tools
+
+**Java/Agile Development**
+
+- ['Save Our Planet' - Virtual Board Game](https://github.com/cathalmcgit/CSC7083-Software-Engineering-Group-Project)
+- A group project which involved following an Agile Development process to create a virtual Java Board Game.
+
+**Web Development**
+
+- [Moodo - Mood Tracking Website](https://github.com/cathalmcgit/CSC7084-Web-Development-Project)
+
+- Built using HTML, CSS, Bulma CSS Framework, PHP & JavaScript, connecting to a MySQL Database. 
+
+**Databases**
+
+- [Jet2Holidays Booking System](https://github.com/cathalmcgit/CSC7082-Databases-Project)
+
+- Creating a MySQL database and producing SQL queries to demonstrate its functionality.
 
 ## 📫 Contact Me
 
