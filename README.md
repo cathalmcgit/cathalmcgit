@@ -11,18 +11,18 @@ I'm currently finishing up my MSc in Software Development at Queen's University,
 
 **Java/Agile Development**
 
-- ['Save Our Planet' - Virtual Board Game](https://github.com/cathalmcgit/CSC7083-Software-Engineering-Group-Project)
+- ['Save Our Planet' - Virtual Board Game](https://github.com/cathalmcgit/-Save-Our-Planet-Virtual-Board-Game)
 - A group project which involved following an Agile Development process to create a virtual Java Board Game.
 
 **Web Development**
 
-- [Moodo - Mood Tracking Website](https://github.com/cathalmcgit/CSC7084-Web-Development-Project)
+- [Moodo - Mood Tracking Website](https://github.com/cathalmcgit/Moodo---Mood-Tracking-Website)
 
 - Built using HTML, CSS, Bulma CSS Framework, PHP & JavaScript, connecting to a MySQL Database. 
 
 **Databases**
 
-- [Jet2Holidays Booking System](https://github.com/cathalmcgit/CSC7082-Databases-Project)
+- [Package Booking System](https://github.com/cathalmcgit/Package-Holiday-Booking-System)
 
 - Creating a MySQL database and producing SQL queries to demonstrate its functionality.
 
