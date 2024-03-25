@@ -17,13 +17,16 @@ I'm currently finishing up my MSc in Software Development at Queen's University,
 **Web Development**
 
 - [Moodo - Mood Tracking Website](https://github.com/cathalmcgit/Moodo---Mood-Tracking-Website)
+- Built using HTML, CSS, Bulma CSS Framework, PHP & JavaScript, connecting to a MySQL Database.
 
-- Built using HTML, CSS, Bulma CSS Framework, PHP & JavaScript, connecting to a MySQL Database. 
+**Python**
+
+- [Wikipedia Plot Extractor](https://github.com/cathalmcgit/Wiki-Plot-Extractor)
+- A simplified version of a ranking and rating system to assign ratings to AI-generated plot summaries.
 
 **Databases**
 
 - [Package Booking System](https://github.com/cathalmcgit/Package-Holiday-Booking-System)
-
 - Creating a MySQL database and producing SQL queries to demonstrate its functionality.
 
 ## 📫 Contact Me
