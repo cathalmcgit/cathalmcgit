@@ -1,6 +1,6 @@
 ### Hi there, I'm Cathal 👋
 
-I'm currently finishing up my MSc in Software Development at Queen's University, Belfast.
+I'm just finished my MSc in Software Development at Queen's University, Belfast and am currently developing my skills with new projects.
 
 ## 🌱 Currently Learning
 
